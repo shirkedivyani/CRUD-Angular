@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Riya",
+      "lastName": "shirke@gmail.com",
+      "email": "shirke@gmail.com",
+      "mobile": "2345345356",
+      "salary": "90067"
+    },
+    {
+      "id": 4,
+      "firstName": "juveria",
+      "lastName": "lambe",
+      "email": "lambe1@gmail.com",
+      "mobile": "6999999",
+      "salary": "$30000"
+    },
+    {
+      "id": 5,
+      "firstName": "Divya",
+      "lastName": "Shirke",
+      "email": "shirkedivyani123@gmail.com",
+      "mobile": 2345345356,
+      "salary": 47445
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
